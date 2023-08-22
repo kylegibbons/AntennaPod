@@ -1,1 +1,7 @@
-This is a beta release.
+∙ Add sorting options to Downloads and Episodes screens (@Jared234, @gitstart)
+∙ Android Auto fixes & improvements; add back skip button (@awbooze, @ByteHamster)
+∙ Add option to set ‘Enqueue location’ to Random (@andweg)
+∙ Allow sorting Inbox oldest to newest (@gitstart)
+∙ Enable auto-activating sleep timer based during a timeslot (@mueller-ma)
+∙ Improve file downloading; offer to download as soon as WiFi is available (@ByteHamster)
+∙ Don't ask for rating if installed via F-Droid (@JonathanZopf)
